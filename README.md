@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Manuele 👋
 
-<!--
-**Manuuando/Manuuando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Economist turning data into business decisions.  
+MSc student in **Management and Informatics** at **USI – Università della Svizzera italiana** (Lugano).
 
-Here are some ideas to get you started:
+### 🔍 What I do
+- 📊 Data analysis & business intelligence for economic and business contexts
+- 📈 Econometrics: my BSc thesis studied the link between **AI patents and economic growth** across countries
+- 🌐 Build and maintain websites for local organisations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools
+`Python` · `SQL` · `Git & GitHub` · `Econometrics (Stata/R)` · `ArchiMate` · `Excel`
+
+### 📌 Featured work
+- **[AI Patents & Growth](link)** – cross-country econometric analysis (BSc thesis)
+- **[ArcisateGIOVANI website](https://manuuando.github.io)** – static site for a local youth association
+- **[Poker AI](link)** – hackathon project: rule-based agent that predicts opponents' moves
+
+### 📫 Contact
+[LinkedIn](link) · 📍 Ticino / Lombardy
