@@ -5,16 +5,17 @@ MSc student in **Management and Informatics** at **USI – Università della Svi
 
 ### 🔍 What I do
 - 📊 Data analysis & business intelligence for economic and business contexts
-- 📈 Econometrics: my BSc thesis studied the link between **AI patents and economic growth** across countries
-- 🌐 Build and maintain websites for local organisations
+- 📈 Econometrics in R: my BSc thesis studied the link between **AI patents and economic growth** across countries
+- 🐍 Python tools that automate repetitive work
+- 🌐 Websites for local organisations
 
 ### 🛠️ Tools
-`Python` · `SQL` · `Git & GitHub` · `Econometrics (Stata/R)` · `ArchiMate` · `Excel`
+`R / RStudio` · `Python` · `SQL` · `Git & GitHub` · `ArchiMate` · `Excel`
 
 ### 📌 Featured work
-- **[AI Patents & Growth](link)** – cross-country econometric analysis (BSc thesis)
-- **[ArcisateGIOVANI website](https://manuuando.github.io)** – static site for a local youth association
-- **[Poker AI](link)** – hackathon project: rule-based agent that predicts opponents' moves
+- **[DirittoTributarioHelper](https://github.com/Manuuando/DirittoTributarioHelper)**: Streamlit study portal for Italian tax law: targeted search (law article, explanation, worked example), notes export, study planner with calendar export and quizzes
+- **[ArcisateGIOVANI website](https://github.com/Manuuando/Manuuando.github.io)**: static website for a local youth association ([live](https://manuuando.github.io))
+- 🔜 *AI Patents & Economic Growth*: cross-country econometric analysis in R (BSc thesis)
 
 ### 📫 Contact
-[LinkedIn](link) · 📍 Ticino / Lombardy
+[LinkedIn](https://www.linkedin.com/in/manuele-andolfatto-15a564329/) · 📍 Ticino / Lombardy
