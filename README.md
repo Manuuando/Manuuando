@@ -13,6 +13,7 @@ MSc student in **Management and Informatics** at **USI – Università della Svi
 `R / RStudio` · `Python` · `SQL` · `Git & GitHub` · `ArchiMate` · `Excel`
 
 ### 📌 Featured work
+- **[TUIR Extractor](https://github.com/Manuuando/TUIR_extractor)**: fully local RAG assistant for the Italian income tax code (TUIR): FastAPI backend, React front-end, FAISS semantic search and a locally hosted LLM, no paid APIs
 - **[DirittoTributarioHelper](https://github.com/Manuuando/DirittoTributarioHelper)**: Streamlit study portal for Italian tax law: targeted search (law article, explanation, worked example), notes export, study planner with calendar export and quizzes
 - **[ArcisateGIOVANI website](https://github.com/Manuuando/Manuuando.github.io)**: static website for a local youth association ([live](https://manuuando.github.io))
 - 🔜 *AI Patents & Economic Growth*: cross-country econometric analysis in R (BSc thesis)
